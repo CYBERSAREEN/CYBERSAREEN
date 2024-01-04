@@ -1,16 +1,9 @@
 # Cyber Sareen
-Hey there! I'm a cybersecurity enthusiast and a curious student. When I was younger, I was fascinated by the fact that everything possesses some kind of weakness or vulnerability.
+Greetings! I am a dedicated cybersecurity enthusiast and an inquisitive student, driven by a profound fascination with the inherent vulnerabilities present in various systems. Recognizing the truth that perfection is an elusive quality, both in human endeavors and technological landscapes, has been a guiding principle in my pursuits.<br>
 <br>
-Theres no human born who is picture perfect to do any work with fine perfection; every project has some of its mistakes.
-I love finding mistakes. In myself, in other things, and in other businesses, and that made me learn so many things because mistakes are the only true and real factors a person can use to
+The pursuit of excellence is intricately tied to the acknowledgment of imperfections, and I derive immense satisfaction from the meticulous process of uncovering and understanding these intricacies. This philosophy has become a cornerstone in my personal and professional development, as I believe that true growth stems from the recognition and rectification of mistakes.<br>
 <br>
-build their empire because the one who never sat down and tried to find where he or she went wrong is the person who never tried and will never accomplish anything in his or her life.
-
-<br>
-
-I found that the cybersecurity domain is nothing but finding mistakes in programs that can be voided by others.
-
-<br>
+In my journey, I have cultivated a keen interest in the cybersecurity domain, which I perceive as an intricate chess game where adversaries leave traces of their actions. My focus has naturally gravitated towards digital forensics, a field that allows me to methodically investigate and uncover the mistakes made by cyber intruders.<br>
 
 # So I choose to go with digital forensics to find the mistakes of hackers who forgot to clear their tracks or digital footprints (by mistake ofcource). ﻿
 
