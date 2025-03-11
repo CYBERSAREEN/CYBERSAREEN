@@ -1,15 +1,80 @@
-👋 **Hello, I'm Vedant Sareen!**
+# Hi there, I'm Vedant Sareen! 👋
 
-🌟 **About Me**  
-I am a passionate and versatile individual with a strong foundation in technology and creative endeavors. As a **Python Tutor**, I enjoy helping others develop their programming skills. As a **Certified Ethical Hacker**, I am dedicated to advancing cybersecurity by building secure systems. Additionally, I specialize in **Front-End Web Development**, focusing on creating interactive and visually appealing user experiences.
+🚀 **Cybersecurity Enthusiast | Full-Stack Developer | Ethical Hacker**
 
-🎨 **Beyond the Code**  
-When I'm not coding, I express my creativity through **sketching** and exploring music. I believe in the importance of creativity alongside technical skills, which helps me approach problems from a fresh perspective.
+I am a cybersecurity enthusiast and problem solver with hands-on expertise in Python-based tool development, network security, and ethical hacking. Proficient in **vulnerability assessment, encryption, and OSINT**. Certified in **Cisco Cybersecurity, Ethical Hacking (CSG), and Python/SQL (HackerRank)**. Strong foundation in **Data Structures and Algorithms (200+ problems solved)**.
 
-🎓 **Education & Certifications**  
-Currently pursuing a **Bachelor of Engineering in Computer Science and Engineering (BE - CSE)**, I am constantly striving to enhance my knowledge. I am also preparing for certifications in **Security+** and **RHCSA**, which will further complement my expertise in technology and security.
+---
 
-🌐 **Let’s Collaborate!**  
-I believe in the power of collaboration and am always open to learning from diverse perspectives. If you are interested in technology, creativity, or are looking for a motivated professional to collaborate with, feel free to connect!
+## 📌 Contact & Socials
 
-🚀 **Let’s innovate and grow together!**
+📧 **Email:** securitycybernetics@gmail.com  
+🐙 **GitHub:** [github.com/CYBERSAREEN](https://github.com/CYBERSAREEN)  
+🔗 **LinkedIn:** [linkedin.com/in/Sareen-CyberSecurity-477180v4](https://www.linkedin.com/in/Sareen-CyberSecurity-477180v4/)  
+📍 **Location:** Ludhiana, Punjab
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming:** Python, SQL, Java, JavaScript, HTML/CSS
+- **Cybersecurity:** Threat Intelligence, Incident Response, Network Traffic Analysis, Intrusion Detection, Wireshark, Nmap, Metasploit, OSINT
+- **Frameworks:** Node.js, Express.js, React, JWT, Qasg, Bootstrap
+- **Tools:** Git, Linux, VMware, OSINT frameworks
+- **Development & Automation:** Python (Cybersecurity Scripting)
+
+---
+
+## 🎯 Certifications
+
+- **Junior Cybersecurity Analyst | Cisco Networking Academy** (Jan 2025)
+- **Ethical Hacking | Cyber Sec Guru** (Jan 2023)
+- **Python (Basics) | HackerRank** (Jan 2022)
+- **SQL and Java (Basics) | HackerRank** (Mar 2025)
+- **Dark Web & Privacy | Udemy** (Jun 2023)
+
+---
+
+## 🔥 Notable Projects & Training
+
+### 🔹 **Cyber Security Tools Development** | Cyber Sec Guru *(Mar 2023 – Present)*
+- Built **four Python tools** (**MAC Changer, Network Scanner, ARP Spoofer, DNS Spoofer**) for ethical hacking.
+- Integrated CLI with `--help` support for **user-friendly customization**.
+- Utilized **socket programming** and **packet manipulation** to simulate **network attacks**.
+
+### 🔹 **Anonymity & Privacy Research Project** | Self-Driven *(2023 – 2024)*
+- Investigated **Tor, VPNs, and encryption techniques** to enhance digital anonymity.
+- Analyzed **ethical implications** of anonymous communication in cybersecurity.
+
+### 🔹 **Event Management System** | GitHub *(Jan 2025 – Present)*
+- Designed **role-based authentication** using **JWT and Node.js** to secure API endpoints.
+- Implemented **FS model for data storage** and **Express.js** for backend logic.
+
+### 🔹 **LEARNSEC365** | Chitkara University *(Apr 2024 – Present)*
+- Developed **GSAP animations** for an engaging **cybersecurity learning experience**.
+- Built with **React** for **scalability, modularity, and responsiveness**.
+- Comprehensive learning platform with **roadmaps, challenges, and resources**.
+
+### 🔹 **Cybersecurity Website** | CNT Technologies *(Oct 2021 – 2022)*
+- Developed a **responsive platform** with tutorials on **encryption and OSINT tools**.
+- Used **HTML/CSS/JavaScript** to create **interactive UI elements**.
+
+---
+
+## 🏆 Achievements
+
+- **DSA:** 200+ problems solved
+- **Top 10%** in weekly contests
+- **Competitions:** Won **7+ awards** in **music/yoga** (NIT Kurukshetra, Bennett University)
+
+---
+
+## 📢 Let's Connect!
+
+💻 **Portfolio:** Coming Soon! 🚀  
+🔗 **LinkedIn:** [linkedin.com/in/Sareen-CyberSecurity-477180v4](https://www.linkedin.com/in/Sareen-CyberSecurity-477180v4/)  
+🐦 **Twitter:** [twitter.com/VedantSareen](#)  
+📧 **Email:** securitycybernetics@gmail.com  
+
+⚡ Always open to exciting projects, security research, and learning new things. Let's collaborate and build something awesome! 💡
+
