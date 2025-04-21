@@ -1,8 +1,8 @@
 # Hi there, I'm Vedant Sareen! 👋
 
-🚀 **Cybersecurity Enthusiast | Full-Stack Developer | Ethical Hacker**
+🚀 **Cybersecurity Enthusiast | Full stack tool dev | Ethical Hacker**
 
-I am a cybersecurity enthusiast and problem solver with hands-on expertise in Python-based tool development, network security, and ethical hacking. Proficient in **vulnerability assessment, encryption, and OSINT**. Certified in **Cisco Cybersecurity, Ethical Hacking (CSG), and Python/SQL (HackerRank)**. Strong foundation in **Data Structures and Algorithms (200+ problems solved)**.
+I am a cybersecurity enthusiast and problem solver with hands-on expertise in Python-based tool development, network security, and ethical hacking. Proficient in **vulnerability assessment, Threat Intelligence, and Python Programming**. Certified in **Cisco Cybersecurity, Ethical Hacking (CSG), and Python, SQL, Java, Cpp (HackerRank)**. Strong foundation in **Data Structures and Algorithms (200+ problems solved)**.
 
 ---
 
@@ -17,10 +17,9 @@ I am a cybersecurity enthusiast and problem solver with hands-on expertise in Py
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python, SQL, Java, JavaScript, HTML/CSS
+- **Programming:** Python, SQL, Java, JavaScript, Templating(HBS,Ejs)
 - **Cybersecurity:** Threat Intelligence, Incident Response, Network Traffic Analysis, Intrusion Detection, Wireshark, Nmap, Metasploit, OSINT
-- **Frameworks:** Node.js, Express.js, React, JWT, Qasg, Bootstrap
-- **Tools:** Git, Linux, VMware, OSINT frameworks
+- **Tools:** Git, Linux, OSINT frameworks
 - **Development & Automation:** Python (Cybersecurity Scripting)
 
 ---
@@ -64,7 +63,6 @@ I am a cybersecurity enthusiast and problem solver with hands-on expertise in Py
 ## 🏆 Achievements
 
 - **DSA:** 200+ problems solved
-- **Top 10%** in weekly contests
 - **Competitions:** Won **7+ awards** in **music/yoga** (NIT Kurukshetra, Bennett University)
 
 ---
