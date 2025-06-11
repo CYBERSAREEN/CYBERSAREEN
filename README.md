@@ -1,5 +1,8 @@
 # Hi there, I'm Vedant Sareen! 👋
 
+![My TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/securecybernetic.png)
+
+
 🚀 **Cybersecurity Enthusiast | Full stack tool dev | Ethical Hacker**
 
 I am a cybersecurity enthusiast and problem solver with hands-on expertise in Python-based tool development, network security, and ethical hacking. Proficient in **vulnerability assessment, Threat Intelligence, and Python Programming**. Certified in **Cisco Cybersecurity, Ethical Hacking (CSG), and Python, SQL, Java, Cpp (HackerRank)**. Strong foundation in **Data Structures and Algorithms (200+ problems solved)**.
