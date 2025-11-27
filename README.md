@@ -18,27 +18,6 @@
 
 ## 📊 Quick Profile Overview
 
-```python
-class CybersecurityProfessional:
-    def __init__(self):
-        self.name = "Vedant Sareen"
-        self.role = "Cybersecurity Specialist & AI Security Developer"
-        self.experience = "2+ Years in Security Automation"
-        self.status = "Open to Cybersecurity Roles"
-        
-    def skills(self):
-        return {
-            "Programming": ["Python (Advanced)", "Bash", "JavaScript"],
-            "Security Tools": ["Burp Suite", "Metasploit", "Nmap", "Wireshark"],
-            "AI Integration": ["OpenAI API", "Langchain", "RAG Systems"],
-            "Frameworks": ["MITRE ATT&CK", "NIST", "OWASP Top 10"]
-        }
-```
-
----
-
-## 🎯 Core Competencies
-
 ### 🔐 **Offensive Security**
 ![VAPT](https://img.shields.io/badge/VAPT-Expert-orange?style=flat-square)
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Advanced-red?style=flat-square)
