@@ -235,7 +235,7 @@ Conducted comprehensive, full-difficulty vulnerability assessments across two in
 |---|---|
 | 💼 LinkedIn | [sareen-cybersecurity-477180ved](https://www.linkedin.com/in/sareen-cybersecurity-477180ved/) |
 | 📧 Email | [securecybernetics@gmail.com](mailto:securecybernetics@gmail.com) |
-| 🌐 Portfolio | [cybersecguru.in](https://cybersecguru.in/) |
+| 🌐 Portfolio | [cybersecguru.in](https://vedantsareen7180.vercel.app/) |
 | 💻 GitHub | [github.com/CYBERSAREEN](https://github.com/CYBERSAREEN) |
 
 </div>
