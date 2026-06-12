@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗ █████╗ ██████╗ ███████╗███████╗███╗   ██╗
+ ██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗ █████╗ ██████╗ ███████╗███████╗███╗   ██╗
 ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝████╗  ██║
 ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████╗███████║██████╔╝█████╗  █████╗  ██╔██╗ ██║
 ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗╚════██║██╔══██║██╔══██╗██╔══╝  ██╔══╝  ██║╚██╗██║
@@ -16,8 +16,8 @@
 *Ludhiana, Punjab, India*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sareen-cybersecurity-477180ved/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://vedantsareen7180.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CYBERSAREEN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-CLICK_HERE-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://vedantsareen7180.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:securecybernetics@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_8%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
@@ -31,26 +31,28 @@
 $ cat /etc/profile.d/vedant.sh
 
 NAME="Vedant Sareen"
-ROLE="Cybersecurity Undergraduate | AI Security Developer"
+ALIAS="CYBERSAREEN"
+ROLE="Cybersecurity Undergraduate | AI Security Developer | Ethical Hacker"
 UNIVERSITY="Chitkara University — BE Computer Science (Cybersecurity) | CGPA: 7.78"
 LOCATION="Ludhiana, Punjab, India"
 FOCUS="VAPT · AI-Driven Security Automation · Threat Intelligence"
 STATUS="Actively seeking Cybersecurity / AI Security roles"
 TRYHACKME_RANK="Top 8%"
 TOOLS_BUILT="20+ Custom Python Security Tools"
-PATENT="CyberXAgent - Generative AI Security Model (Filed, Pending)"
+PATENT="CyberXAgent — Generative AI Security Model (Filed, Pending)"
+PUBLISHED="Book Chapter: Future Research Directions in Cybersecurity (2025)"
 ```
 
 ---
 
 ## ⚡ What I Do
 
-I build tools that **find vulnerabilities before attackers do** — combining offensive security skills with AI-powered automation to deliver faster, smarter security assessments.
+I build tools that **find vulnerabilities before attackers do** — combining offensive security skills with AI-powered automation for faster, smarter security assessments.
 
 - 🔴 **Offensive Security** — Web App Pentesting, Network Exploitation, VAPT across DVWA & bWAPP
 - 🤖 **AI Security Engineering** — RAG-based report generation, LLM security research, GenAI threat modelling
 - 🛠️ **Tool Development** — 20+ production Python tools (scanners, sniffers, spoofers, simulators)
-- 📖 **Research & Publishing** — Published book chapter, pursuing research paper on IoT + AI security
+- 📖 **Research & Publishing** — Published book chapter, research paper on autonomous IoT + AI pentesting
 
 ---
 
@@ -58,7 +60,7 @@ I build tools that **find vulnerabilities before attackers do** — combining of
 
 ### Offensive Security & VAPT
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square)
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square)
 ![Nessus](https://img.shields.io/badge/Nessus-00B4E0?style=flat-square)
@@ -66,8 +68,8 @@ I build tools that **find vulnerabilities before attackers do** — combining of
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-333333?style=flat-square)
 ![Hashcat](https://img.shields.io/badge/Hashcat-FF0000?style=flat-square)
-![Hydra](https://img.shields.io/badge/Hydra-green?style=flat-square)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-black?style=flat-square)
+![Hydra](https://img.shields.io/badge/Hydra-009900?style=flat-square)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-111111?style=flat-square)
 ![Gobuster](https://img.shields.io/badge/Gobuster-4A90D9?style=flat-square)
 ![Bettercap](https://img.shields.io/badge/Bettercap-FF4500?style=flat-square)
 ![Mimikatz](https://img.shields.io/badge/Mimikatz-8B0000?style=flat-square)
@@ -76,92 +78,86 @@ I build tools that **find vulnerabilities before attackers do** — combining of
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### SIEM & Analysis
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-CC0000?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
 
 ### Frameworks & Standards
-![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E4002B?style=flat-square)
 ![CVSS](https://img.shields.io/badge/CVSS-orange?style=flat-square)
 ![CWE/CVE](https://img.shields.io/badge/CWE%2FCVE-blue?style=flat-square)
 
-### Operating Systems
+### OS & Platforms
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 CyberXAgent — Generative AI Security Model *(Patent Filed · Pending)*
-> *Nov 2025 – Present*
-
-An AI-powered security automation platform leveraging **Retrieval-Augmented Generation (RAG)** to revolutionise how security reports are generated and vulnerabilities are documented.
-
+### 🤖 [CyberXAgent](https://github.com/CYBERSAREEN) — Generative AI Security Model *(Patent Filed)*
+> AI-powered security automation using **RAG (Retrieval-Augmented Generation)** to automate vulnerability reporting and offensive security documentation.
 - Reduced manual documentation time by **48%** through recursive automated testing
-- Integrated LLM-specific security risk coverage (OWASP Top 10 for LLMs)
-- Building an integrated tutoring module for offensive security education
+- Covers OWASP Top 10 for LLMs — attacks and defences against AI-specific vulnerabilities
+- Integrated tutoring module for offensive security education
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-8A2BE2?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai)
-![Patent](https://img.shields.io/badge/Patent-Filed_Pending-gold?style=flat-square)
+### 🔬 [PenBox-DMAS](https://github.com/CYBERSAREEN/penbox-dmas) — Distributed Multi-Agent Security Appliance
+> Research implementation for autonomous vulnerability assessment at the edge. Achieves **96.8% detection accuracy** with RL-powered exploit chaining.
+- 17 mathematical equations fully implemented and tested (60-test pytest suite)
+- Reproduces all tables and figures from the published research paper
+- Hardware: Mini-ITX (Ryzen 7, RTX 5060, 64 GB DDR5) + Raspberry Pi 5 cluster
 
----
+### 🛠️ [CyberSecurityTools](https://github.com/CYBERSAREEN/CyberSecurityTools) — Python Security Toolkit
+> **20+ custom Python tools** for ethical hacking, network analysis, and penetration testing.
+- MAC Changer, Network Scanner, ARP Spoofer/Detector, Packet Sniffer, DNS Spoofer
+- Web Crawler, Login Guesser, Vulnerability Scanner, Malware/Keylogger Simulators
+- Multithreading across all tools — **60% performance improvement**
 
-### 🛠️ AI-Powered Cybersecurity Automation Toolkit
-> *Mar 2023 – Present · [View on GitHub](https://github.com/CYBERSAREEN/CyberSecurityTools)*
+### 🤖 [SORRY_SGPT](https://github.com/CYBERSAREEN/SORRY_SGPT) — Terminal AI Assistant for CEH
+> Terminal-native CEH v13 study and pentest assistant. Covers all **20 EC-Council modules**.
+- Multi-provider: Groq (free/fast) → Gemini → Claude fallback chain
+- Commands: `--shell`, `--explain`, `--code`, `--ceh`, `--mitre`, `--osint`, `--pentest`, `--quiz`
+- Auto-exec mode, markdown save, interactive chat with context memory
 
-A portfolio of **20+ custom Python security tools** built for real-world network security testing and automation.
+### ⚡ [PyHub](https://github.com/CYBERSAREEN/PYHUB) — GUI GitHub Deployment Tool
+> Full-GUI GitHub deploy tool — no terminal commands needed. Smart conflict resolver, Git wizard, 9 `.gitignore` presets.
+- Auto-detects Git identity, handles auth errors, opens GitHub token page automatically
+- Distributable as standalone `.exe` via PyInstaller — share with anyone
 
-| Category | Tools | Impact |
-|---|---|---|
-| Network Analysis | MAC Changer, Network Scanner, Packet Sniffer | 30% faster scans |
-| Attack Simulation | ARP Spoofer, DNS Spoofer, ARP Detector | Full lab coverage |
-| Web Security | Web Crawler, Vulnerability Scanner, Login Guesser | OWASP Top 10 tested |
-| Simulation | Malware Sim, Keylogger Sim, Backdoor Sim | Safe lab environment |
+### 🌐 [Excelon Cyber Solutions (ECS)](https://github.com/CYBERSAREEN/ECS) — Cybersecurity Company Website
+> Full-stack company website with JWT auth, Supabase backend, and admin dashboard.
+- Tech: Node.js · Express · EJS · Supabase · JWT · Helmet · Resend
+- Admin CRUD for leads, projects, patents, and team management
 
-- Implemented **multithreading** across all tools — **60% performance improvement**
-- Enforced secure coding practices throughout development pipeline
+### 🎵 [The Raw Studios](https://github.com/CYBERSAREEN/raw-studios) — Music Academy Website
+> Website for a performing arts academy in Zirakpur, Punjab.
+- Live Google Reviews integration with 5-min cache and automatic mock fallback
+- Courses: Singing, Guitar, Flute, Kathak Dance
 
-![Python](https://img.shields.io/badge/Python-25+_Modules-3776AB?style=flat-square)
-![Multithreading](https://img.shields.io/badge/Multithreading-Optimised-00AA44?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-20+-success?style=flat-square)
-
----
-
-### 🔍 Vulnerability Assessment Lab — DVWA & bWAPP
-> *Jan 2024 – Jul 2024*
-
-Conducted comprehensive, full-difficulty vulnerability assessments across two industry-standard intentionally vulnerable web applications.
-
-- **Vulnerabilities covered:** SQLi, XSS, CSRF, RFI/LFI, Command Injection, File Upload, IDOR, SSRF
-- Validated each finding with PoC exploits and mapped to **CWE/CVE** identifiers
-- Authored detailed remediation-focused reports aligned with **OWASP Top 10**
-- Performed automated scanning with Nessus, Burp Suite, SQLMap
-
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-Fully_Covered-orange?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Expert-FF6633?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-Integrated-2596CD?style=flat-square)
+### 🔐 [REPORTS_DVWA-BWAPP_POC](https://github.com/CYBERSAREEN/REPORTS_DVWA-BWAPP_POC) — Pentest Reports
+> Professional-grade vulnerability reports and PoC exploits for DVWA & bWAPP.
+- Every finding mapped to CVE · CWE · CVSS v3.1
+- Covers SQLi, XSS, CSRF, LFI/RFI, Command Injection, SSRF, SSTI, XXE, and more
 
 ---
 
-## 📈 Impact at a Glance
+## 📊 Impact at a Glance
 
 <div align="center">
 
 | Metric | Result |
 |---|---|
 | 🔎 Vulnerabilities eliminated | **85% reduction** via automated detection |
-| ⚡ Scan time improvement | **30% faster** with multithreading |
-| 📄 Report generation time | **48% less** via RAG automation |
+| ⚡ Scan time improvement | **30% faster** with multithreaded tools |
+| 📄 Report generation | **48% less time** via RAG automation |
 | 🛠️ Custom tools built | **20+** production Python tools |
 | 🧠 DSA problems solved | **200+** on coding platforms |
 | 🏆 TryHackMe ranking | **Top 8%** globally |
@@ -172,20 +168,13 @@ Conducted comprehensive, full-difficulty vulnerability assessments across two in
 
 ## 🏆 Achievements & Research
 
-**📘 Published Book Chapter**
-> *"Future Research Directions and Open Challenges"* — Chapter 14 in **"Cybersecurity in the Age of AI and IoT"** · June 2025
-
-**📄 Research Paper** *(In Progress)*
-> *"Advances in Cyber Security – IoT and AI based solution deployed by cybersecurity"* · Jan 2026
-
-**🧪 Patent Filed**
-> CyberXAgent — Generative AI Security Model · Nov 2025 · *Pending*
-
-**🎯 TryHackMe**
-> Ranked in the **Top 8%** globally as an active CTF player · July 2025
-
-**🎵 Beyond Tech**
-> Musician, Mentor & Competition Judge since 2019
+| | |
+|---|---|
+| 📘 **Published Book Chapter** | *"Future Research Directions and Open Challenges"* — Chapter 14 in **Cybersecurity in the Age of AI and IoT** · June 2025 |
+| 📄 **Research Paper** *(In Progress)* | *"PenBox: Autonomous AI + IoT System for Penetration Testing and Security Monitoring"* · 2026 |
+| 🧪 **Patent Filed** | CyberXAgent — Generative AI Security Model · Nov 2025 · *Pending* |
+| 🎯 **TryHackMe** | Ranked **Top 8%** globally · July 2025 |
+| 🎵 **Beyond Tech** | Musician, Mentor & Competition Judge since 2019 |
 
 ---
 
@@ -201,7 +190,7 @@ Conducted comprehensive, full-difficulty vulnerability assessments across two in
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -220,9 +209,9 @@ Conducted comprehensive, full-difficulty vulnerability assessments across two in
 ```diff
 + Cybersecurity Analyst / Penetration Tester
 + AI Security Developer / Security Automation Engineer
-+ Research Collaborations (AI + Security)
++ Research Collaborations (AI + Cybersecurity)
 + CTF Teams & Bug Bounty Programs
-+ Internships & Full-time Roles (Immediate start · Remote / Relocation OK)
++ Internships & Full-time Roles — Immediate start · Remote / Relocation OK
 ```
 
 ---
@@ -235,7 +224,7 @@ Conducted comprehensive, full-difficulty vulnerability assessments across two in
 |---|---|
 | 💼 LinkedIn | [sareen-cybersecurity-477180ved](https://www.linkedin.com/in/sareen-cybersecurity-477180ved/) |
 | 📧 Email | [securecybernetics@gmail.com](mailto:securecybernetics@gmail.com) |
-| 🌐 Portfolio | [CHECK OUT](https://vedantsareen7180.vercel.app/) |
+| 🌐 Portfolio | [vedantsareen7180.vercel.app](https://vedantsareen7180.vercel.app/) |
 | 💻 GitHub | [github.com/CYBERSAREEN](https://github.com/CYBERSAREEN) |
 
 </div>
