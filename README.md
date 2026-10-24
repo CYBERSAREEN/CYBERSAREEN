@@ -28,20 +28,6 @@ I build tools that find vulnerabilities before attackers do, and I write up what
 
 ---
 
-## Featured work
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**WEBPT**](https://github.com/CYBERSAREEN/WEBPT) | Web pentest toolkit: JS and endpoint recon, a Logger++ CSV to HTML evidence dashboard, Burp extension notes | Python |
-| [**PenBox-DMAS**](https://github.com/CYBERSAREEN/penbox-dmas) | Research implementation of autonomous vulnerability assessment at the edge, with a 60-test pytest suite | Python |
-| [**BrainV2**](https://github.com/CYBERSAREEN/BrainV2) | Second-brain setup: Claude Code, Obsidian, n8n and local MCP servers, with checksum-verified upgrades | Node, MCP |
-| [**CyberSecurityTools**](https://github.com/CYBERSAREEN/CyberSecurityTools) | 20+ Python tools for network testing: scanners, sniffers, spoofers, simulators | Python |
-| [**SORRY_SGPT**](https://github.com/CYBERSAREEN/SORRY_SGPT) | Terminal assistant for CEH v13 study and pentest workflows, with multi-provider fallback | Python |
-| [**jwellory-ecom**](https://github.com/CYBERSAREEN/jwellory-ecom) | Jewellery storefront on the Shopify Storefront API | EJS, Express |
-| [**raw-studios**](https://github.com/CYBERSAREEN/raw-studios) | Website for a music academy, with live Google Reviews | Web |
-
----
-
 ## Toolbox
 
 **Offensive security:** Burp Suite · Nmap · Metasploit · SQLMap · OWASP ZAP · Wireshark · Hashcat · Hydra · Gobuster · Bettercap
